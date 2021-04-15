@@ -1,4 +1,4 @@
-# 【关于 关键词提取】那些你不知道的事
+# 关键词提取
 
 > 作者：杨夕
 > 
@@ -99,10 +99,3 @@
   - PageRank算法根据网页之间的链接关系构造网络，TextRank算法根据词之间的共现关系构造网络；
   - PageRank算法构造的网络中的边是有向无权边，TextRank算法构造的网络中的边是无向有权边。
 
-### LDA主题模型关键词提取算法
-
-[LDA](LDA)
-
-### KeyBert 算法
-
-[KeyBert/KeyBert学习.ipynb](KeyBert/KeyBert学习.ipynb)
